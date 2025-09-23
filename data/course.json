@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ]
+  ],
+  "legacy_uid": "fb516ba4-6a40-1190-4efd-1289e839d7de",
+  "instructors": {
+    "content": [
+      "d87e83b9-8b59-f0ab-95a7-d675cc81c8aa",
+      "aaec4bd5-b27f-3078-3230-317a4fa1638f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "83b7903b-99d2-98ef-29c2-777be81ad34e",
+    "website": "11-333-urban-design-seminar-spring-2005"
+  },
+  "course_title": "Urban Design Seminar",
+  "course_description": "This course is a requirement for completion of the Urban Design Certificate Program. It investigates the complex nature of 'successful' urban design and attempts to identify and evaluate examples of urban design that are at the leading edge of practice, anticipating the future. The seminar will deal with two parallel questions: what are the key trends that will shape the future form and function of cities, and how will these changes affect the role of the urban designer? The first part of the seminar focuses on the present, and the second part of the semester will consider the future. After the course surveys the landscape of contemporary urban design practice, the challenge it will pose to students will be to identify the trajectory of cities and city design from both physical and social perspectives.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.333",
+  "course_image_thumbnail": {
+    "content": "9f7c6a3b-4dc8-3d39-b754-ccd22c7d3bf8",
+    "website": "11-333-urban-design-seminar-spring-2005"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments with Examples"
+  ],
+  "site_uid": "eb805af4-061d-4856-b450-b80a33741846",
+  "site_short_id": "11.333-spring-2005",
+  "site_url_path": "courses/11-333-urban-design-seminar-spring-2005",
+  "title": "Course Metadata"
+}
