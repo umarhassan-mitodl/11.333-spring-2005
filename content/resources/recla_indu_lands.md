@@ -6,6 +6,8 @@ description: Example student presentation for the final assignment. Topics inclu
 file: /courses/11-333-urban-design-seminar-spring-2005/a0d48dc31df7acf89808cd710424c904_recla_indu_lands.pdf
 file_size: 2108972
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

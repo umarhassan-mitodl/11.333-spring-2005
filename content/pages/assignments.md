@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides instructions for the course assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ Materials
 To assist you with this assignment, students should review the following materials:
 
 1.  Original journal articles. For 1992-1995, see the January issue of _P/A_ each year. For 1996 and beyond, see the following issues of _Architecture_: May 1996, January 1997, April 1998-2002, January 2003-4.
-2.  Bruner Award books, including _Connections:_ _Creating Urban Excellence_ (1991), _Rebuilding Communities: Re-Creating Urban Excellence_ (1993), _Building Coalitions for Urban Excellence_ (1995), _Visions of Urban Excellence_ (1997), _Commitment to Place_ (1999), and _Placemaking for Change_ (2001). See also the Web publication of 2003 winners, along with the books, at the {{% resource_link "95de8144-cba9-4d67-a878-916a43496c0c" "Bruner Foundation" %}}. The Foundation has made the last three books available for purchase at the reduced rate of $5 each, and we encourage you to add these to your library. Titles and winners can also be viewed online at the {{% resource_link "95de8144-cba9-4d67-a878-916a43496c0c" "Bruner Foundation" %}}.
+2.  Bruner Award books, including _Connections:_ _Creating Urban Excellence_ (1991), _Rebuilding Communities: Re-Creating Urban Excellence_ (1993), _Building Coalitions for Urban Excellence_ (1995), _Visions of Urban Excellence_ (1997), _Commitment to Place_ (1999), and _Placemaking for Change_ (2001). See also the Web publication of 2003 winners, along with the books, at the [Bruner Foundation](http://www.brunerfoundation.org/). The Foundation has made the last three books available for purchase at the reduced rate of $5 each, and we encourage you to add these to your library. Titles and winners can also be viewed online at the [Bruner Foundation](http://www.brunerfoundation.org/).
 
 Assignment 2: Urban Design Futures
 ----------------------------------

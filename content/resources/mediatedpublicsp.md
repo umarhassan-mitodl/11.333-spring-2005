@@ -5,6 +5,8 @@ description: Example student presentation for the final assignment. Topics inclu
 file: /courses/11-333-urban-design-seminar-spring-2005/4107aad1f3ae45b9717f623ae8fdf162_mediatedpublicsp.pdf
 file_size: 810248
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

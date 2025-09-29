@@ -4,6 +4,8 @@ description: Example student presentation for the final assignment on schools in
 file: /courses/11-333-urban-design-seminar-spring-2005/1884d3d2781ba6e951647ecd0c41f1c2_citiesoflearning.pdf
 file_size: 1225061
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

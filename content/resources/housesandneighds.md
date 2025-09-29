@@ -5,6 +5,8 @@ description: Example student project on the advantages and disadvantages of plan
 file: /courses/11-333-urban-design-seminar-spring-2005/18290947b4283f4d9939c1cfd2de27cc_housesandneighds.pdf
 file_size: 1243112
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
