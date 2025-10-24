@@ -5,8 +5,6 @@ description: Example student presentation for the final assignment on designing 
 file: /courses/11-333-urban-design-seminar-spring-2005/ea49c4a6a15f1e21cfa583c7f4f103c7_identity.pdf
 file_size: 425822
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
