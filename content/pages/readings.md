@@ -41,18 +41,18 @@ The Municipal Art Society. "Imagine NYII: The People's Response Summary Report,"
 
 ———. "Imagine New York: Toward the People's Memorial Summary Report," December 2003.
 
-[Lower Manhattan Development Corporation Web site](http://www.renewnyc.com/) to view nine initial World Trade Center designs, memorial proposals and finalist information.
+{{% resource_link "079a405a-711d-4464-8ec2-a83fb0ac2048" "Lower Manhattan Development Corporation Web site" %}} to view nine initial World Trade Center designs, memorial proposals and finalist information.
 
 *NY Times* and *NY Times Magazine* selected articles.
 
-[ULI Gerald Hines Urban Design Competition Documentary](https://cleveland.uli.org/about/community/uli-hines-student-competition/).
+{{% resource_link "4d17f2f3-2801-4f81-94df-2ab39c2da2b7" "ULI Gerald Hines Urban Design Competition Documentary" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
 Evaluating Urban Design
 {{< tdclose >}}{{< tdopen >}}
-View the 2003 Rudy Bruner Award for Urban Excellence and previous awards at the [Foundation Web site](http://www.brunerfoundation.org/).
+View the 2003 Rudy Bruner Award for Urban Excellence and previous awards at the {{% resource_link "56262194-7fb5-4ede-a378-3708f6e5d7f4" "Foundation Web site" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
@@ -85,7 +85,7 @@ Topic 1: Inventing New Ways of Living: Homes and Neighborhoods
 
 Larson, Kent. "A Machine Crafted Home of the Future." *Architecture and Urbanism* 361 (October 2000).
 
-———. "Changing Places and House\_n Research Topics ([PDF](https://nanopdf.com/download/changingplaces-amp-house-n_pdf))," and "[MIT Open Source Building Alliance](http://www.openp2pdesign.org/2009/open-p2p-design/open-architectural-design-from-mit-0103-the-osba-project/)"
+———. "Changing Places and House\_n Research Topics ({{% resource_link "c6847396-881c-4430-95fc-ca12e47fb662" "PDF" %}})," and "{{% resource_link "153d29c7-cade-4d70-8327-ae554d1c0297" "MIT Open Source Building Alliance" %}}"
 
 ———. "PlaceLab: A House\_n + TIAX Initiative."
 
@@ -93,7 +93,7 @@ Blank, Thomas. "Future of Housing for Older Persons." In *Older Persons and Thei
 
 Jenkins, Susan. "Housing That Works." *Builder Magazine*, September 1998.
 
-"[Live/Work 2001](http://www.builderonline.com/)." *Builder Magazine*, February 4, 2001.
+"{{% resource_link "a40227e7-b3d9-48cb-8aee-d099681447ce" "Live/Work 2001" %}}." *Builder Magazine*, February 4, 2001.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -107,7 +107,7 @@ Duffy, Francis. "Two Traditions," and "New Ways of Working." *The New Office*. L
 
 Architekten, Henn. *Die Glaeserne Manufactur*. Hamburg, Germany: Junius Verlag, 2003. ISBN: 3885065436.
 
-———. *Stahl und Form*. Dusseldorf: Stahl-Informations-Zentrum, 2001, pp. 1-18 and 30-31. ([PDF - 2.7 MB](http://files.vogel.de/vogelonline/vogelonline/files/2771.pdf))
+———. *Stahl und Form*. Dusseldorf: Stahl-Informations-Zentrum, 2001, pp. 1-18 and 30-31. ({{% resource_link "e564fcce-0c34-4d80-bc70-818e9a425424" "PDF - 2.7 MB" %}})
 
 Gladwell, Malcolm. "Designs for Working." *The New Yorker*, December 11, 2000, 60-70.
 
@@ -123,11 +123,11 @@ Horan, Thomas. "The Recombinant Landscape," and "Building Our City of Bits." In 
 
 Frenchman, Dennis. "Media Street Elements, Guidelines, and Illustrations." Working Paper (MIT), January 27, 2003.
 
-Joroff, Michael, and Dennis Frenchman, et. al. [*DMC: Digital Media Street*](http://en.wikipedia.org/wiki/Digital_Media_City). Seoul, South Korea: Seoul Metropolitan Government, 2003.
+Joroff, Michael, and Dennis Frenchman, et. al. {{% resource_link "a37499f7-7ef7-4e7f-9ca8-a7c763d7ec30" "*DMC: Digital Media Street*" %}}. Seoul, South Korea: Seoul Metropolitan Government, 2003.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/e-topia)  Mitchell, William J. "Software: New Genius of the Place." In [*E-topia*](https://mitpress.mit.edu/books/e-topia). Cambridge, MA: MIT Press, 1999. ISBN: 0262133555.
+{{% resource_link "6ed4b661-8b0b-42a0-a29f-54ea6f0759bb" "![Buy at MIT Press](/images/mp_logo.gif)" %}}  Mitchell, William J. "Software: New Genius of the Place." In {{% resource_link "6ed4b661-8b0b-42a0-a29f-54ea6f0759bb" "*E-topia*" %}}. Cambridge, MA: MIT Press, 1999. ISBN: 0262133555.
 
-City Design and Development Group, CRE, Media Lab. [*New Century Cities: Real Estate Value in a Digital World*. (PDF)](http://web.mit.edu/crisgh/www/NCC%20Prospectus.pdf) Cambridge, MA: MIT, January, 2005.
+City Design and Development Group, CRE, Media Lab. {{% resource_link "fce0734c-5e3e-42d9-b9a4-f1c01df5feae" "*New Century Cities: Real Estate Value in a Digital World*. (PDF)" %}} Cambridge, MA: MIT, January, 2005.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -163,7 +163,7 @@ Breen, Ann, and Dick Rigsby. *The New Waterfront: A Worldwide Urban Success Stor
 
 Song, Kimberly. "In Seoul, a Splash of the Past," *Wall Street Journal*, January 7, 2004.
 
-For additional project information: skim [case studies](http://www.boston.com/beyond_bigdig/cases/).
+For additional project information: skim {{% resource_link "78ef7c9d-8851-4e8e-95d0-587a0db082f5" "case studies" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -193,6 +193,6 @@ Redesigning Urban Design
 
 Lang, Jon. "Redesigning Urban Design." In *Urban Design: The American Experience*. New York, NY: Van Nostrand Reinhold, 1994, pp. 124-134. ISBN: 0442013604.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/city-sense-and-city-design) Lynch, Kevin. "City Design: What It is and How It Might Be Taught." In [*City Sense and City Design: Writings and Projects of Kevin Lynch*](https://mitpress.mit.edu/books/city-sense-and-city-design). Edited by Tridib Banerjee and Michael Southworth. Cambridge, MA: MIT Press, 1990, pp. 652-59. ISBN: 0262121433.
+{{% resource_link "50d962ce-8576-4e7e-a5c8-7bec31c10ef4" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lynch, Kevin. "City Design: What It is and How It Might Be Taught." In {{% resource_link "50d962ce-8576-4e7e-a5c8-7bec31c10ef4" "*City Sense and City Design: Writings and Projects of Kevin Lynch*" %}}. Edited by Tridib Banerjee and Michael Southworth. Cambridge, MA: MIT Press, 1990, pp. 652-59. ISBN: 0262121433.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
